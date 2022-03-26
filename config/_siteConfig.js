@@ -12,7 +12,7 @@ export default {
   siteName: 'BeefCo',
   tagline: 'Beef Beef Beef',
   //featureImage: '/uploads/home-hero.jpg',
-  featureImage: '/uploads/M&D cover background 1.png',
+  featureImage: '/uploads/M&D cover background 4.png',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
