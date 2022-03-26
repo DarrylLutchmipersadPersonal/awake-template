@@ -32,15 +32,15 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'Instagram',
+      link: 'https://www.instagram.com/thesisterpugs_to/',
       target: '_blank'
     },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    }
+    //{
+    // name: 'Awake+ Premium',
+    //  link: 'https://awake-premium-lp.netlify.com/',
+    //  target: '_blank'
+    //}
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
