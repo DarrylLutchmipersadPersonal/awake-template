@@ -11,7 +11,8 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'BeefCo',
   tagline: 'Beef Beef Beef',
-  featureImage: '/uploads/home-hero.jpg',
+  //featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/christmas-pug-dog-web-banner-funny-wearing-santa-claus-hat-social-media-cover-room-text-snowy-sky-background-165699600.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
